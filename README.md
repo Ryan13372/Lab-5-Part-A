@@ -1,10 +1,12 @@
-Added Ar classroom finder project
+# AR Classroom Finder
 
-The app enables you to search for a specific room number
+## About
+AR Classroom Finder is a mobile app designed to help students navigate around campus.
 
-Our app is a mobile app made for navigation around the campus
+## Features
+- **Room Search:** Search for a specific classroom by room number.
+- **Campus Map:** View a map to locate classrooms.
+- **Navigation:** Follow clear, step-by-step directions to reach your destination.
 
-It is made to make it easier to travel around the campus
-
-The app provides a map and easy to follow instructions to help navigate
-
+## Goal
+Make campus navigation easier, faster, and more convenient for students.
